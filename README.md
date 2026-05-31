@@ -17,15 +17,9 @@
 ### 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <a href="https://github.com/asifhasan973">
-    <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=asifhasan973&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Asif's GitHub Stats" />
-  </a>
-  <a href="https://github.com/asifhasan973">
-    <img align="right" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhasan973&layout=compact&theme=tokyonight" alt="Asif's Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifhasan973&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifhasan973&theme=tokyonight" alt="GitHub Repos Per Language" />
 </p>
-
-<br clear="both" />
 
 <p align="center">
   <a href="https://github.com/asifhasan973">
