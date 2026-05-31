@@ -8,11 +8,30 @@
   </a>
 </p>
 
-🚀 I am a passionate Full-Stack Web Developer and a 4th-year Computer Science & Engineering undergraduate at **Chittagong University of Engineering and Technology (CUET)**. I specialize in building production-grade MERN applications and high-performance real-time features. 
+🚀 I am a passionate Full-Stack Web Developer and a 3rd-year Computer Science & Engineering undergraduate at **Chittagong University of Engineering and Technology (CUET)**. I specialize in building production-grade MERN applications and high-performance real-time features. 
 
 💡 **Key Highlight:** I am a **NASA Space Apps Challenge 2025 Global Finalist (Top 45 out of 15,000+ teams)** and a co-founder of **TorunHut**, an active campus streetwear e-commerce brand serving hundreds of students.
 
 ---
+
+### 📊 GitHub Analytics & Insights
+
+<p align="center">
+  <a href="https://github.com/asifhasan973">
+    <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=asifhasan973&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Asif's GitHub Stats" />
+  </a>
+  <a href="https://github.com/asifhasan973">
+    <img align="right" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhasan973&layout=compact&theme=tokyonight" alt="Asif's Top Languages" />
+  </a>
+</p>
+
+<br clear="both" />
+
+<p align="center">
+  <a href="https://github.com/asifhasan973">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifhasan973&theme=tokyonight" alt="Asif's Git Streak" />
+  </a>
+</p>
 
 ---
 
