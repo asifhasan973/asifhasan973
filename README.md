@@ -14,18 +14,6 @@
 
 ---
 
-### 📊 GitHub Analytics & Insights
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asifhasan973&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Asif's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhasan973&layout=compact&theme=tokyonight" alt="Asif's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asifhasan973&theme=tokyonight" alt="Asif's Git Streak" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Toolkit
