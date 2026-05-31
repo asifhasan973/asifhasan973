@@ -17,20 +17,13 @@
 ### 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <a href="https://github.com/asifhasan973">
-    <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=asifhasan973&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Asif's GitHub Stats" />
-  </a>
-  <a href="https://github.com/asifhasan973">
-    <img align="right" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhasan973&layout=compact&theme=tokyonight" alt="Asif's Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asifhasan973&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Asif's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifhasan973&layout=compact&theme=tokyonight" alt="Asif's Top Languages" />
 </p>
 
-<br clear="both" />
-
 <p align="center">
-  <a href="https://github.com/asifhasan973">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifhasan973&theme=tokyonight" alt="Asif's Git Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=asifhasan973&theme=tokyonight" alt="Asif's Git Streak" />
 </p>
 
 ---
